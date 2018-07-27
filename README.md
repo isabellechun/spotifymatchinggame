@@ -1,4 +1,4 @@
-AT&T Entertainment Hackathon
+# AT&T Entertainment Hackathon
 July 27-28, 2018
 
 Team: Isabelle Chun, Cindy Zhang, Dhruva Mehta, Richard Tang, and Yuna Shin
