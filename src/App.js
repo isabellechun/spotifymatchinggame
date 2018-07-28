@@ -11,7 +11,8 @@ import {
   Button
 } from 'react-native';
 
-import React, { Component } from 'react';
+import { React, Component } from 'react';
+import { Location, Permissions, MapView } from 'expo';
 import logo from './logo.svg';
 import './App.css';
 
